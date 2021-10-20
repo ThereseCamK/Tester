@@ -1,3 +1,3 @@
 function show(){
-     var tese = 'bare test';
+     var tese = 'bare testing';
 }
